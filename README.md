@@ -10,7 +10,7 @@ Join https://t.me/HardcoreUserbot to know more !
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/Hack12R/HardcoreUserbot
+git clone https://github.com/Mat_kar_fight/HardcoreUserbot
 cd HardcoreUserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
